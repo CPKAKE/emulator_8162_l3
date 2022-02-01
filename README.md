@@ -1,2 +1,1 @@
-# 8162_L3-CDM
-# widevine cdm for system id 8162
+The widevine content decryption module blob and private key for System ID 8162
